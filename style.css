@@ -16,15 +16,26 @@ border-radius: 10px;
 .carousel-item{
     padding: 10px 30px;
 }
-.card-item{
+/* .card-item{
     padding: 20px;
     box-shadow: 5px 5px 15px lightgrey;
     border: none;
     border-radius: 10px;
-}
+} */
 .card-body{
     padding: 20px;
     border: none;
     box-shadow: 5px 5px 15px lightgray;
     border-radius: 10px;
 }
+.add-boder{
+    box-shadow: 5px 5px 15 lightgray;
+    border: 2px;
+}
+.categories-border {
+    
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    padding: 10px;
+}  
